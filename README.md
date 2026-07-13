@@ -1,6 +1,6 @@
 # Can Erdoğan
 
-High school student in Istanbul (TED Rönesans College, 9th grade). I'm mostly
+High school student in Istanbul (TED Rönesans College, 10th grade). I'm mostly
 into math and computer science. My goal is to study a STEM field at a
 technical university in Germany.
 
